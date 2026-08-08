@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Yadavalli Lohith!
 
-I'm an **Aspiring Software Development Engineer (SDE)** passionate about building scalable, efficient, and user-friendly applications. With expertise in **Full-Stack Development**, **Backend Systems**, and **Cloud Technologies**, I'm committed to solving real-world problems through innovative software solutions.
+<div align="center">
+  <img src="./assets/lohith1.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
+</div>
+
+I'm an **Aspiring Software Development Engineer (SDE)** passionate about building scalable, efficient, and user-friendly applications. With expertise in **Full-Stack Development**, **Backend System Design**, and **Cloud Technologies**, I'm committed to creating impactful solutions.
 
 ---
 
