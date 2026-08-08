@@ -6,7 +6,7 @@ I'm an **Aspiring Software Development Engineer (SDE)** passionate about buildin
 
 ## 🚀 About Me
 
-- 🎓 **Present Student** | Computer Science Enthusiast
+- 🎓 **Present Student** | Computer Science and Engineering Data Science
 - 📍 **Location:** Achanta
 - 💼 **Career Goal:** Contribute to building scalable software solutions that make an impact
 - 🔭 **Currently Exploring:** Advanced backend architectures, microservices, and cloud-native development
