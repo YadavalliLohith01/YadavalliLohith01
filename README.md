@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Yadavalli Lohith!
 
 <div align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <img src=""https://github.com/lohith1.png.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
 </div>
 
 I'm an **Aspiring Software Development Engineer (SDE)** passionate about building scalable, efficient, and user-friendly applications. With expertise in **Full-Stack Development**, **Backend System Design**, and **Cloud Technologies**.
